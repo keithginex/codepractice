@@ -1,0 +1,91 @@
+html{
+  width: 1830px;
+}
+
+body {
+  width: 1830px;
+  color: black;
+}
+
+nav {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.MainContainer {
+  background-color: white;
+  margin: auto;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+  font-family: helvetica;
+  font-size: 18px;
+}
+
+p, h1, h4, h6{
+  text-align: center;
+  font-family: Helvetica;
+
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h4 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div .backgroundPic{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  width: 1830px;
+  height: 297px;
+  right: 1830px;
+  text-align: center;
+}
+
+.NewYorkCopy {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  height: 200px;
+  height: 30px;
+}
+
+.FlushLeft {
+  text-align: left !important;
+  float: left;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  height: 20px;
+  width: 1830px;
+  color: white;
+  font-family: helvetica;
+  font-size: 18px;
+
+}
